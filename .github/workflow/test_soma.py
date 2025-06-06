@@ -1,3 +1,3 @@
-def test_soma()
+def test_soma():
 	soma(3, 2) == 5
 	
